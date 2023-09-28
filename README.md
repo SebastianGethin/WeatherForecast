@@ -1,3 +1,6 @@
+# Placeholder
+I am still working on creating a finished product for this project, please bear with me until it is complete
+
 # Weather Forecast
 My solution for a data engineering challenge that was set by a coworker. The challenge was worded as follows;
 "Connect to the WeatherAPI APIs, pull data, and do something with it".
