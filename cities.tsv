@@ -1,0 +1,77 @@
+index,name,state,county
+1,Aberdeen,Scotland,Aberdeen City
+2,Armagh,Northern Ireland,County Armagh
+3,Bangor,Northern Ireland,County Down
+4,Bangor,Wales,Gwynedd
+5,Bath,England,Somerset
+6,Belfast,Northern Ireland,County Antrim
+7,Birmingham,England,West Midlands
+8,Bradford,England,West Yorkshire
+9,50.822416 -0.136862,England,East Sussex
+10,Bristol,England,Bristol
+11,Cambridge,England,Cambridgeshire
+12,Canterbury,England,Kent
+13,Cardiff,Wales,Glamorgan
+14,Carlisle,England,Cumbria
+15,Chelmsford,England,Essex
+16,Chester,England,Cheshire
+17,Chichester,England,West Sussex
+18,Colchester,England,Essex
+19,Coventry,England,West Midlands
+20,Derby,England,Derbyshire
+21,Doncaster,England,South Yorkshire
+22,Dundee,Scotland,Dundee
+23,Dunfermline,Scotland,Fife
+24,DH1,England,Durham
+25,Edinburgh,Scotland,Edinburgh
+26,52.398638 0.264298,England,Cambridgeshire
+27,Exeter,England,Devon
+28,Glasgow,Scotland,Glasgow
+29,Gloucester,England,Gloucestershire
+30,Hereford,England,Herefordshire
+31,Inverness,Scotland,Highland
+32,Kingston upon Hull,England,East Riding of Yorkshire
+33,54.046844 -2.799787,England,Lancashire
+34,Leeds,England,West Yorkshire
+35,Leicester,England,Leicestershire
+36,Lichfield,England,Staffordshire
+37,53.230078 -0.541358,England,Lincolnshire
+38,Lisburn,Northern Ireland,County Antrim
+39,Liverpool,England,Merseyside
+40,London,England,Greater London
+41,54.996078 -7.313108,Northern Ireland,County Londonderry
+42,Manchester,England,Greater Manchester
+43,Milton Keynes,England,Buckinghamshire
+44,Newcastle upon Tyne,England,Tyne and Wear
+45,Newport,Wales,Newport City
+46,Newry,Northern Ireland,County Down
+47,Norwich,England,Norfolk
+48,Nottingham,England,Nottinghamshire
+49,Oxford,England,Oxfordshire
+50,56.395988 -3.431746,Scotland,Perth and Kinross
+51,Peterborough,England,Cambridgeshire
+52,Plymouth,England,Devon
+53,Portsmouth,England,Hampshire
+54,Preston,England,Lancashire
+55,54.136091 -1.523037,England,North Yorkshire
+56,Salford,England,Greater Manchester
+57,Salisbury,England,Wiltshire
+58,Sheffield,England,South Yorkshire
+59,Southampton,England,Hampshire
+60,Southend-on-Sea,England,Essex
+61,St Albans,England,Hertfordshire
+62,St Asaph (Llanelwy),Wales,Denbighshire
+63,51.880922 -5.265321,Wales,Pembrokeshire
+64,Stirling,Scotland,Stirlingshire
+65,Stoke-on-Trent,England,Staffordshire
+66,Sunderland,England,Tyne and Wear
+67,Swansea,Wales,Swansea
+68,Truro,England,Cornwall
+69,Wakefield,England,West Yorkshire
+70,51.209338 -2.646148,England,Somerset
+71,51.496901 -0.135084,England,Greater London
+72,Winchester,England,Hampshire
+73,Wolverhampton,England,West Midlands
+74,52.192829 -2.220986,England,Worcestershire
+75,Wrexham,Wales,Wrexham
+76,York,England,North Yorkshire
